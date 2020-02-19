@@ -1,0 +1,8 @@
+TW_API_URL: "https://api.transferwise.com"
+TW_API_KEY: ""
+TW_PROFILE_ID: ""
+TW_BORDERLESS_ACCOUNT_ID: ""
+TW_CURRENCIES: "" # Example: USD,EUR,DKK
+SendGrid_KEY: ""
+TO_EMAIL: ""
+FROM_EMAIL: ""
